@@ -6,6 +6,14 @@ Welcome to my analysis on how the inbound tourism revenue influences the GDP of 
 
 This project was developed while attending Ironhack's Data Analytics course, focusing on enhancing data visualization, Python skills, and gaining insights through exploratory data analysis techniques. It emphasizes structured approaches to handling and analyzing clean datasets.
 
+### What is GDP?
+
+GDP stands for Gross Domestic Product. It is the total monetary value of all goods and services produced within a country's borders over a specific period (typically a year or a quarter). GDP is one of the primary indicators used to gauge the economic health and size of a country.
+
+### What is Inbound Tourism
+
+Inbound tourism refers to the movement of visitors from other countries into a specific country for tourism purposes. In other words, it describes the number of foreign tourists who travel to a country to visit, explore, or engage in recreational activities. This type of tourism is an important economic indicator for many countries, as it directly contributes to the local economy through spending on accommodations, transportation, food, entertainment, and other services
+
 ## The Dataset 🗃
 
 The dataset analyzed in this project is a clean version provided as a [.csv file](https://www.kaggle.com/datasets/bhatvikas/world-tourism-economic-data), which was processed and loaded for analysis. 
