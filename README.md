@@ -104,11 +104,11 @@ Visual storytelling to effectively communicate the findings.
 
 ## Trello
 
-For organization purposes I used Trello, it has helped me keep track of the tasks during the project developement. If you wish to have a look feel free to vist my [Trello]([https://trello.com/b/7QVzqRRg/mid-project](https://trello.com/invite/b/6751e9d73b69122a7e6fdffe/ATTI3182dcc47de494fa3976712acf7891971F277DC1/mid-project))
+For organization purposes I used Trello, it has helped me keep track of the tasks during the project developement. If you wish to have a look feel free to vist my [Trello board](https://trello.com/invite/b/6751e9d73b69122a7e6fdffe/ATTI3182dcc47de494fa3976712acf7891971F277DC1/mid-project).
 
 ## Streamlit app
 
-Lastly, I created a streamlit app to display my visualizations apart from Canvas, Jupyter and Tableau. If you would like to have a look please check my [Streamlite](https://inbound-tourism-revenue-influence-on-gdp--analysis-16dec2024.streamlit.app/)
+Lastly, I created a streamlit app to display my visualizations apart from Canvas, Jupyter and Tableau. If you would like to have a look please check my [Streamlite](https://trello.com/b/7QVzqRRg/mid-project)
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
