@@ -99,6 +99,10 @@ The Canva presentation includes:
 Key insights and conclusions drawn from the analysis.
 Visual storytelling to effectively communicate the findings.
 
+## Trello
+
+For organization purposes I used Trello, it has helped me keep track of the tasks during the project developement. If you wish to have a look feel free to vist my [Trello](https://trello.com/b/7QVzqRRg/mid-project)
+
 ## Streamlit app
 
 Lastly, I created a streamlit app to display my visualizations apart from Canvas, Jupyter and Tableau. If you would like to have a look please check my [Streamlite](https://inbound-tourism-revenue-influence-on-gdp--analysis-16dec2024.streamlit.app/)
