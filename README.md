@@ -97,8 +97,11 @@ A visual and interactive summary of the project is presented via Jupyter Noteboo
 The Canva presentation includes:
 
 Key insights and conclusions drawn from the analysis.
-
 Visual storytelling to effectively communicate the findings.
+
+## Streamlit app
+
+Lastly, I created a streamlit app to display my visualizations apart from Canvas, Jupyter and Tableau. If you would like to have a look please check my [Streamlite]("http://localhost:8502/#correlation-representation-heatmap")
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
