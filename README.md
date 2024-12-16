@@ -96,7 +96,7 @@ Additionally, visualizations were created on [Tableau](https://public.tableau.co
 
 ## Presentation 🎮
 
-A visual and interactive summary of the project is presented via Jupyter Notebook and [Canva](https://www.canva.com/design/DAGY7hKxYls/yV1xW-itEtFhfpyPvtHpVQ/edit?ui=eyJIIjp7IkEiOnRydWV9fQ). 
+A visual and interactive summary of the project is presented via Jupyter Notebook and [Canva](https://www.canva.com/design/DAGY7hKxYls/yV1xW-itEtFhfpyPvtHpVQ/edit?utm_content=DAGY7hKxYls&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 The Canva presentation includes:
 
 Key insights and conclusions drawn from the analysis.
@@ -108,7 +108,7 @@ For organization purposes I used Trello, it has helped me keep track of the task
 
 ## Streamlit app
 
-Lastly, I created a streamlit app to display my visualizations apart from Canvas, Jupyter and Tableau. If you would like to have a look please check my [Streamlite](https://trello.com/b/7QVzqRRg/mid-project)
+Lastly, I created a streamlit app to display my visualizations apart from Canvas, Jupyter and Tableau. If you would like to have a look please check my [Streamlit](https://inbound-tourism-revenue-influence-on-gdp--analysis-16dec2024.streamlit.app/)
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
