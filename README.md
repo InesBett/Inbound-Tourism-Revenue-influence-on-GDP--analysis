@@ -92,7 +92,7 @@ After applying data cleaning techniques, the project generated insightful visual
 
 *Histograms and box plots* to observe distributions and outliers.
 
-Additionally, visualizations were created on [Tableau](https://public.tableau.com/app/profile/in.s.bettencourt/viz/GDPvsTourismInboundAnalysisDashboard/Dashboard?publish=yes), offering interactive dashboards to complement the Jupyter Notebook outputs. These provide an enhanced exploration of the data and its features.
+Additionally, visualizations were created on [Tableau](https://public.tableau.com/app/profile/in.s.bettencourt/viz/GDPvsTourismInboundAnalysisDashboard/Dashboard?publish=yes) it is also possible to see the [Tableau Story](https://public.tableau.com/app/profile/in.s.bettencourt/viz/GDPvsTourismInboundAnalysisStory/Story?publish=yes), offering interactive dashboards to complement the Jupyter Notebook outputs. These provide an enhanced exploration of the data and its features.
 
 ## Presentation 🎮
 
