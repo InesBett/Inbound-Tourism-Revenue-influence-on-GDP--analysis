@@ -101,7 +101,7 @@ Visual storytelling to effectively communicate the findings.
 
 ## Streamlit app
 
-Lastly, I created a streamlit app to display my visualizations apart from Canvas, Jupyter and Tableau. If you would like to have a look please check my [Streamlite]("http://localhost:8502/#correlation-representation-heatmap")
+Lastly, I created a streamlit app to display my visualizations apart from Canvas, Jupyter and Tableau. If you would like to have a look please check my [Streamlite]("[http://localhost:8502/#correlation-representation-heatmap](https://inbound-tourism-revenue-influence-on-gdp--analysis-16dec2024.streamlit.app/)")
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
