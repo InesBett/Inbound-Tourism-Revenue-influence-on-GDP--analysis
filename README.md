@@ -1,4 +1,7 @@
-# Inbound Tourism Revenue influence on GDP |Analysis 🌍✈️
+# Inbound Tourism Revenue influence on GDP |Analysis 🌍
+
+![gdp](https://github.com/user-attachments/assets/634235d2-ffb9-4324-8923-f5f219afa689)
+
 
 ## Quest Overview 
 
@@ -101,7 +104,7 @@ Visual storytelling to effectively communicate the findings.
 
 ## Trello
 
-For organization purposes I used Trello, it has helped me keep track of the tasks during the project developement. If you wish to have a look feel free to vist my [Trello](https://trello.com/b/7QVzqRRg/mid-project)
+For organization purposes I used Trello, it has helped me keep track of the tasks during the project developement. If you wish to have a look feel free to vist my [Trello]([https://trello.com/b/7QVzqRRg/mid-project](https://trello.com/invite/b/6751e9d73b69122a7e6fdffe/ATTI3182dcc47de494fa3976712acf7891971F277DC1/mid-project))
 
 ## Streamlit app
 
