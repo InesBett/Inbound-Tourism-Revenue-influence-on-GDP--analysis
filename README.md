@@ -13,7 +13,7 @@ This project was developed while attending Ironhack's Data Analytics course, foc
 
 GDP stands for Gross Domestic Product. It is the total monetary value of all goods and services produced within a country's borders over a specific period (typically a year or a quarter). GDP is one of the primary indicators used to gauge the economic health and size of a country.
 
-### What is Inbound Tourism
+### What is Inbound Tourism?
 
 Inbound tourism refers to the movement of visitors from other countries into a specific country for tourism purposes. In other words, it describes the number of foreign tourists who travel to a country to visit, explore, or engage in recreational activities. This type of tourism is an important economic indicator for many countries, as it directly contributes to the local economy through spending on accommodations, transportation, food, entertainment, and other services
 
@@ -80,7 +80,7 @@ The provided dataset comprises 10 years of data (from 2000 to 2012) of World tou
 
 ## Quest Development ⚙
 
-The flowchart below outlines my methodology for structuring and achieving the project’s objectives:
+The flowchart below was made in Excalidraw and outlines my methodology for structuring and achieving the project’s objectives:
 
 ![Imagem1](https://github.com/user-attachments/assets/f4df97f8-bffe-424d-b98c-fa9efb5e29d3)
 
